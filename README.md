@@ -1,4 +1,4 @@
-This project aims to provide a tutorial on how to debug Golang applications inside Docker containers using both Docker and Docker Compose. if you want to know more detail you can visit this blog
+This project aims to provide a tutorial on how to debug Golang applications inside Docker containers using both Docker and Docker Compose. if you want to know more detail you can visit the [blog](https://www.kenaqshal.com/blog/debugging-dockerized-go-applications)
 
 
 ## Prerequisites
